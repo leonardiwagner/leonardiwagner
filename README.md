@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋, please open an issue instead of contacting me by e-mail for project related stuff, thanks :smile:
 
 <!--
 **leonardiwagner/leonardiwagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
